@@ -6,4 +6,4 @@ To do this we will use the *Distilbert* model, a simplification of BERT.
 
 # Run
 
-The analysis and details are in the `main.ipynb` file. There is no need to run the code in this notebook was saved with the last complete run.
+The analysis and details are in the [notebook](main.ipynb). There is no need to run the code in this notebook was saved with the last complete run.
